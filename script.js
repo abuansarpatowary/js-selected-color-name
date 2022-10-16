@@ -17,4 +17,4 @@ for(let color of colors){
         selectedColor.style.backgroundColor = box.style.backgroundColor;
     });
 }
-console.log("Hello");
+console.log("Hello World");
